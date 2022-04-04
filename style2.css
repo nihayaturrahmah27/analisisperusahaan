@@ -1,0 +1,24 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    background: url(a.jpg)no-repeat;
+    background-size: cover;
+}
+.box{
+    width: 800px;
+    background: rgb(248, 248, 248);
+    padding: 10px;
+    text-align: justify;
+    margin: auto;
+    margin-top: 5%;
+    color: rgb(10, 10, 10);
+    font-family: "century gothic, sans-serif";
+}
+
+.title h1{
+    cursor: pointer;
+    font-family: georgia;
+    color: #080808;
+    font-size: 30px;
+}
